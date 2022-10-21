@@ -1,17 +1,11 @@
 # EC-Assignment01
 Created by the following people for Evolutionary Computation, Semester 2 2021: 
-* Lelep Wighton, 1630177, 
-[lelep.wighton@student.adelaide.edu.au](lelep.wighton@student.adelaide.edu.au)
-* Daniel Harris, a1749892, 
-[daniel.harris@student.adelaide.edu.au](daniel.harris@student.adelaide.edu.au)
-* Jia Jun Loucas Chai, a1755688, 
-[a1755688@student.adelaide.edu.au](a1755688@student.adelaide.edu.au)
-* Farishta Hashimi, a1792172, 
-[farishta.hashimi@student.adelaide.edu.au](farishta.hashimi@student.adelaide.edu.au)
-* Ulugbek Kakhkhorov, a1801921, 
-[ulugbek.kakhkhorov@student.adelaide.edu.au](ulugbek.kakhkhorov@student.adelaide.edu.au)
-* Sebastian Trenberth, a1747809,
-[sebastian.trenberth@student.adelaide.edu.au](sebastian.trenberth@student.adelaide.edu.au)
+* Lelep Wighton
+* Daniel Harris
+* Jia Jun Loucas Chai
+* Farishta Hashimi
+* Ulugbek Kakhkhorov
+* Sebastian Trenberth
 
 In addition to checking out the GitHub Repository, you need to 
 Download ALL_tsp.tar.gz, and extract the files within, so that 
